@@ -5,3 +5,36 @@ div{
     text-align: center;
     font-weight:  bold;
 }
+
+.odd{
+    background-color: lightpink;
+    font-family: Vendana, "DejaVu Sans", sans-serif;
+
+}
+
+#two{
+    color: blue;
+    font-size: 36px;
+    
+}
+
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.click, 
+.noClick {
+    font-size: 28px;
+    font-family: Arial, Helvetica,"Times New Roman" sans-serif;
+}
+
+.click{
+    background-color: black;
+    color: whitesmoke;
+}
+.noClick{
+    background-color: yellow;
+
+}
