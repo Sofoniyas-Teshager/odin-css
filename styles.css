@@ -38,3 +38,19 @@ div{
     background-color: yellow;
 
 }
+
+
+.avatar.proportioned {
+    width: 300px;
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
+.styled .beauty{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
